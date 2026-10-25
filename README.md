@@ -1,5 +1,7 @@
 # Garmin-Dive-Log-Conversion-Tool-Garmin-
-這工具主要功能是，將 Garmin 的潛水 .fit 檔案轉換成 .txt、.srt，  .txt方便後續作其他用途， .srt檔可直接作為字幕使用
+這工具主要功能是，將 Garmin 的潛水 .fit 檔案轉換成 .txt、.srt，  
+.txt方便後續作其他用途  
+.srt檔可直接作為字幕使用
 
 使用方式:
 - 將要轉換的檔和程式放在同一個資料夾
